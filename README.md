@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lolbanoori, or better known as "Banoori".
 - 👀 I’m interested in AR/VR, and the Metaverse in particular. I have this dream of widespread adoption of AR/VR headsets, but of course keeping in mind the human costs it brings.
 - 🌱 I’m currently learning GameDev on Unity3D and 3D Modelling on Blender. Also completed a few related courses on Coursera.
-- 📫 I'm on Instagram as @realbanoori. More formally, banoorizohair@gmail.com is the way to go.
+- 📫 I'm on Instagram as @zohairbanoori. More formally, banoorizohair@gmail.com is the way to go.
 - ⚡ Fun fact: Ready Player One can be very real in the near future ;)
